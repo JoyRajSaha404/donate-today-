@@ -1,0 +1,250 @@
+.back {
+    background-image: url(../images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size: 1440px 669px;
+    margin: 0;
+
+}
+
+.header-div {
+    padding: 174px 307px 175px 307px;
+    text-align: center;
+    width: 826px;
+    height: 318px;
+}
+
+.header-title {
+    color: red;
+    font-weight: 700;
+    font-size: 65px;
+    color: #FFFFFF;
+}
+
+.header-description {
+    font-weight: 400;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: #FFFFFF;
+}
+
+.btn-header {
+    color: #FFFFFF;
+    background-color: #FF5959;
+    padding: 16px 20.5px 16px 20.5px;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 5px;
+    text-align: center;
+    border-style: none;
+
+
+}
+
+.donate-div {
+    text-align: center;
+
+}
+
+.donate-title {
+    color: #121212;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 54px;
+    margin-top: 130px;
+    text-align: center;
+
+
+}
+
+.donate-description {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    color: #707070;
+    margin-left: 375px;
+    margin-right: 375px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.donate-amount {
+    display: flex;
+    gap: 22px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    justify-content: space-around;
+    margin-left: 334px;
+    margin-right: 334px;
+}
+
+.donate-amount p {
+    padding: 43px 25px;
+    color: #707070;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    padding: 43px 22px 44px 23px;
+    background-color: #FAFAFA;
+    border-radius: 5px;
+}
+
+#eee {
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+    background-color: #FFEEEE;
+    color: #FF5959;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+}
+
+.other {
+    color: #B3B3B3;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 9.5px;
+}
+
+.btn2 {
+    margin-left: 640px;
+    margin-right: 640px;
+    margin-top: 30px;
+    margin-bottom: 130px;
+    text-align: center;
+}
+
+.plan-description {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #707070;
+    margin-top: 20px;
+
+}
+
+.plan-container {
+    margin-left: 375px;
+    margin-right: 375px;
+}
+
+.box {
+    display: flex;
+    gap: 24px;
+    margin-left: 157px;
+    margin-right: 157px;
+    margin-top: 50px;
+    margin-bottom: 130px;
+}
+
+.box-div1 {
+    padding: 63.5px 23px 54px 22px;
+    background-color: rgba(79, 157, 166, 0.1);
+    border-radius: 5px;
+}
+
+.box-div2 {
+    padding: 63.5px 23px 54px 22px;
+    background-color: rgba(255, 89, 89, 0.1);
+    border-radius: 5px;
+}
+
+.box-div3 {
+    padding: 63.5px 23px 54px 22px;
+    background-color: rgba(222, 222, 196, 0.447);
+    border-radius: 5px;
+}
+
+.donation {
+    display: flex;
+    gap: 94px;
+    margin-left: 156px;
+    margin-right: 252px;
+    margin-bottom: 120px;
+    justify-content: center;
+}
+
+.img1 img {
+    width: 456px;
+    height: 477px;
+}
+
+.first {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #707070;
+}
+
+.second {
+    margin-bottom: 30px;
+    color: #707070;
+}
+
+.third {
+    margin-bottom: 20px;
+}
+
+.fourth {
+    text-align: center;
+}
+
+.btn-header1 {
+    color: #FFFFFF;
+    background-color: #FF5959;
+    padding: 16px 20.5px 16px 20.5px;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 5px;
+    text-align: center;
+    border-style: none;
+    width: 157px;
+    height: 48px;
+    left: 780px;
+    top: 3518px;
+
+}
+
+input {
+    width: 275px;
+    height: 48px;
+    left: 505px;
+    top: 3518px;
+}
+
+.fifth {
+    display: flex;
+    padding: 75px 190px 75px 190px;
+    background-color: #FFF4D6;
+    margin-left: 315px;
+    margin-right: 315px;
+    margin-bottom: 130px;
+}
+
+.ten {
+    font-family: 'Dancing Script', cursive;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    color:  #FF5959;
+
+}
+
+.eleven {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    padding-top: 24px;
+    color: #D9DBE1;
+}
+
+.section {
+   
+    justify-content: space-around;
+    padding: 50px 650px 50px 650px;
+    background-color: #0B0D17;
+
+}
